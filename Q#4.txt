@@ -1,0 +1,42 @@
+Cyberspace and its underlying infrastructure are vulnerable to a wide range of risk stemming from both physical and cyber threats and hazards. Sophisticated cyber actors and nation-states exploit vulnerabilities to steal information and money and are developing capabilities to disrupt, destroy, or threaten the delivery of essential services.
+
+1):For cybersecurity, CISA's main focus areas include: Combatting Cyber Crime and Cyber Incident Response. Securing Federal Networks, Protecting Critical Infrastructure, and providing Cybersecurity Governance. Promoting Information Sharing, Training and Exercises, and Cyber Safety information.When cyber incidents occur, the Department of Homeland Security (DHS) provides assistance to potentially impacted entities, analyzes the potential impact across critical infrastructure, investigates those responsible in conjunction with law enforcement partners, and coordinates the national response to significant.
+In general, a Cyber Security engineer must have the following qualifications: Degree in Computer Science, IT, Systems Engineering, or a similar field. Two years of work experience in Cyber Security related duties such as incident detection and response, and forensics.
+
+2):
+LINES OF EFFORT:The Federal Government has three lines of effort in cyber incident response. No single agency
+possesses all of the authorities, capabilities, and
+expertise to deal unilaterally with a significant
+cyber incident.
+
+Asset Response: Asset response efforts involve
+furnishing technical assistance to affected entities
+to help them recover from the incident. The
+Department of Homeland Security (DHS), through
+the National Cybersecurity and Communications
+Integration Center (NCCIC), is the lead federal
+agency for asset response activities for significant
+cyber incidents.
+
+Threat Response: Threat response efforts involve
+the investigation of the crime. The Department of
+Justice (DOJ), through the FBI and the National
+Cyber Investigative Joint Task Force (NCIJTF), is the
+lead federal agency for threat response activities
+for significant cyber incidents.
+
+Intelligence Support: Intelligence support efforts
+involve creating situational awareness about cyber
+threats. The Office of the Director of National
+Intelligence (ODNI), through the Cyber Threat
+Intelligence Integration Center (CTIIC), is the lead federal agency for intelligence support and related
+activities for significant cyber incidents. The CTIIC
+does not work with the affected entity; it supports
+the government effort. 
+
+Accessing your personal computers, mobile phones, gaming systems and other internet and Bluetooth connected devices.
+Damaging your financial security, including identity theft.
+Blocking your access or deleting your personal information and accounts.
+Targeting children and adults.
+Complicating your employment, business services, transportation and power grid.
+

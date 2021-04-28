@@ -1,0 +1,6 @@
+A man-in-the-middle (MitM) attack is when an attacker intercepts communications between two parties either to secretly eavesdrop or modify traffic traveling between the two. Attackers might use MitM attacks to steal login credentials or personal information, spy on the victim, or sabotage communications or corrupt data.
+MitM attacks consist of sitting between the connection of two parties and either observing or manipulating traffic. This could be through interfering with legitimate networks or creating fake networks that the attacker controls. Compromised traffic is then stripped of any encryption in order to steal, change or reroute that traffic to the attacker’s destination of choice (such as a phishing log-in site).  Because attackers may be silently observing or re-encrypting intercepted traffic to its intended source once recorded or edited, it can be a difficult attack to spot.
+
+                     Prevention:
+
+For end-user education, encourage staff not to use open public Wi-Fi or Wi-Fi offerings at public places where possible, as this is much easier to spoof than cell phone connections, and tell them to heed warnings from browsers that sites or connections may not be legitimate. Use VPNs to help ensure secure connections.

@@ -1,0 +1,8 @@
+Question#1:
+DDoS stands for Distributed Denial of Service.It is a form of cyber attack that targets critical systems to disrupt network service or connectivity that causes a denial of service for users of the targeted resource.
+DDoS mitigation refers to the process of successfully protecting a targeted server or network from a distributed denial-of-service (DDoS) attack. By utilizing specially designed network equipment or a cloud-based protection service, a targeted victim is able to mitigate the incoming threat.
+There Are 4 steps of Mitigating a DDOS attack:
+Detection
+Response
+Routing 
+Adaption

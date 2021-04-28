@@ -1,0 +1,13 @@
+A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash. In both instances, the DoS attack deprives legitimate users (i.e. employees, members, or account holders) of the service or resource they expected.
+
+a):Victims of DoS attacks often target web servers of high-profile organizations such as banking, commerce, and media companies, or government and trade organizations. Though DoS attacks do not typically result in the theft or loss of significant information or other assets, they can cost the victim a great deal of time and money to handle.
+
+There are two general methods of DoS attacks: flooding services or crashing services.
+
+b):We use sessions to store data and share such data across several pages. Usually, a user would pick a product, and we’d save the product’s name along with the chosen quantity and price.
+There are three main HTML tags used to display text after you prompt users. You've seen two internal JavaScript functions that get user input, but how do you display it back to the user? The three tags used are the div, span and text tags. The third one, the text tag, is a form field used to take string input from the user. You usually use this tag to get input such as a name or an address, but you can also display input from the user.
+
+The span and div tags are a way to just display the information you've read in JavaScript prompt windows. You can also display data you've retrieved from a database.
+1:Then, the user would fill out a form with their personal information, and we’d save it in the current session before the end of the process, which is typically the checkout page and the subsequent redirection to the payment gateway (for example, PayPal)
+
+2:Yes In the world of information security, integrity refers to the accuracy and completeness of data. Security controls focused on integrity are designed to prevent data from being modified or misused by an unauthorized party.
